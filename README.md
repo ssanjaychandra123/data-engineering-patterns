@@ -1,12 +1,12 @@
 # Data Engineering Patterns
 
-Field notes from real data platform engagements. Microsoft Fabric, Azure Databricks, and PySpark. Free.
+Field notes from real data platform engagements. Microsoft Fabric, Azure Databricks, PySpark, and SQL. Free.
 
 Every pattern names the assumption that quietly breaks production, explains what is actually happening under the hood, and gives you the decision to make instead.
 
 Whether you are sitting an interview, stabilizing a live platform, or designing your first lakehouse, these are the patterns that separate a pipeline that runs from one you can trust.
 
-> **One repository for everything data engineering.** This is the single home for all of my data engineering material. Microsoft Fabric, Azure Databricks, and PySpark today, with more platforms, tools, and patterns added over time. Star the repo and check back as it grows.
+> **One repository for everything data engineering.** This is the single home for all of my data engineering material. Microsoft Fabric, Azure Databricks, PySpark, and SQL today, with more platforms, tools, and patterns added over time. Star the repo and check back as it grows.
 
 ---
 
@@ -59,6 +59,20 @@ Whether you are sitting an interview, stabilizing a live platform, or designing 
 | Title | Download |
 |---|---|
 | The PySpark Handbook for Fabric and Databricks | [Download PDF](https://github.com/ssanjaychandra123/data-engineering-patterns/blob/main/PySpark/The%20PySpark%20Handbook%20for%20Fabric%20and%20Databricks%20by%20Sanjay%20Chandra.pdf) |
+
+---
+
+## SQL
+
+<p align="center">
+  <img src="SQL_Handbook_Poster.png" alt="The SQL Handbook" width="420">
+</p>
+
+150+ patterns across 61 pages. A practical SQL companion that puts T-SQL on Fabric Warehouse and Spark SQL on Databricks side by side, covering dialect differences, Delta Lake, performance tuning, security, and the platform-specific gotchas that catch every engineer at least once.
+
+| Title | Download |
+|---|---|
+| The SQL Handbook for Fabric and Databricks | [Download PDF](https://github.com/ssanjaychandra123/data-engineering-patterns/blob/main/SQL/The%20SQL%20Handbook%20for%20Fabric%20and%20Databricks%20by%20Sanjay%20Chandra.pdf) |
 
 ---
 
