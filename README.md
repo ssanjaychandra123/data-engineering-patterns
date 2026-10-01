@@ -54,11 +54,12 @@ Whether you are sitting an interview, stabilizing a live platform, or designing 
   <img src="PySpark_Handbook_Poster.png" alt="The PySpark Handbook" width="420">
 </p>
 
-88 concepts across 112 pages. A practical, concepts first companion for engineers writing production Spark across Fabric and Databricks.
+Two companion books, version 4.0, for engineers running PySpark on Databricks and Fabric. The PySpark Practitioner's Handbook explains how Spark thinks and runs: 97 concepts across 98 pages, each with a figure that draws the mechanism. The PySpark Cheat Sheet is the code: 221 patterns across 78 pages to keep open while you work.
 
 | Title | Download |
 |---|---|
-| The PySpark Handbook for Fabric and Databricks | [Download PDF](https://github.com/ssanjaychandra123/data-engineering-patterns/blob/main/PySpark/The%20PySpark%20Handbook%20for%20Fabric%20and%20Databricks%20by%20Sanjay%20Chandra.pdf) |
+| The PySpark Practitioner's Handbook 4.0 | [Download PDF](https://github.com/ssanjaychandra123/data-engineering-patterns/blob/main/PySpark/PySpark%20Practitioners%20Handbook%204.0%20by%20Sanjay%20Chandra.pdf) |
+| PySpark Cheat Sheet 4.0 | [Download PDF](https://github.com/ssanjaychandra123/data-engineering-patterns/blob/main/PySpark/PySpark%20Cheat%20Sheet%204.0%20by%20Sanjay%20Chandra.pdf) |
 
 ---
 
@@ -68,11 +69,12 @@ Whether you are sitting an interview, stabilizing a live platform, or designing 
   <img src="SQL_Handbook_Poster.png" alt="The SQL Handbook" width="420">
 </p>
 
-150+ patterns across 61 pages. A practical SQL companion that puts T-SQL on Fabric Warehouse and Spark SQL on Databricks side by side, covering dialect differences, Delta Lake, performance tuning, security, and the platform-specific gotchas that catch every engineer at least once.
+Two companion books, version 4.0, for engineers writing SQL on Fabric and Databricks. The SQL Practitioner's Handbook explains how SQL thinks and runs: 50 concepts across 56 pages, from logical processing order and joins through the Fabric Warehouse engine and Databricks SQL to working across both engines, each with a figure. The SQL Cheat Sheet puts T-SQL and Spark SQL side by side: 142 patterns across 67 pages.
 
 | Title | Download |
 |---|---|
-| The SQL Handbook for Fabric and Databricks | [Download PDF](https://github.com/ssanjaychandra123/data-engineering-patterns/blob/main/SQL/The%20SQL%20Handbook%20for%20Fabric%20and%20Databricks%20by%20Sanjay%20Chandra.pdf) |
+| The SQL Practitioner's Handbook 4.0 | [Download PDF](https://github.com/ssanjaychandra123/data-engineering-patterns/blob/main/SQL/SQL%20Practitioners%20Handbook%204.0%20by%20Sanjay%20Chandra.pdf) |
+| SQL Cheat Sheet 4.0 | [Download PDF](https://github.com/ssanjaychandra123/data-engineering-patterns/blob/main/SQL/SQL%20Cheat%20Sheet%204.0%20by%20Sanjay%20Chandra.pdf) |
 
 ---
 
