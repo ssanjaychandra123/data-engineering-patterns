@@ -10,21 +10,17 @@ Whether you are sitting an interview, stabilizing a live platform, or designing 
 
 ---
 
-## Microsoft Fabric Patterns
+## Microsoft Fabric
 
 <p align="center">
-  <img src="Microsoft_Fabric_Poster.png" alt="Microsoft Fabric Engineering Patterns" width="420">
+  <img src="Microsoft_Fabric_Poster.png" alt="The Fabric Practitioner's Handbook 4.0" width="420">
 </p>
 
-250 patterns spanning Pipelines, Lakehouse, Warehouse, Power BI, and the architecture decisions that tie them together.
+One book, version 4.0, for engineers building on Microsoft Fabric. The Fabric Practitioner's Handbook replaces the five Fabric Engineering Patterns books: 263 pages in three sections. Know the pieces: 19 comparisons of commonly confused concepts. What breaks: 123 patterns across nine parts, from storage and ingestion through security, capacity, and CI/CD. Design it: 30 system design scenarios.
 
-| # | Topic | Download |
-|---|---|---|
-| 1 | Pipelines and Data Factory | [Download PDF](https://github.com/ssanjaychandra123/data-engineering-patterns/blob/main/Fabric%20Patterns/Fabric%20Engineering%20Patterns%20Book%20I%20-%20Pipelines%20and%20Data%20Factory%20by%20Sanjay%20Chandra.pdf) |
-| 2 | Lakehouse and PySpark | [Download PDF](https://github.com/ssanjaychandra123/data-engineering-patterns/blob/main/Fabric%20Patterns/Fabric%20Engineering%20Patterns%20Book%20II%20-%20Lakehouse%20and%20PySpark%20by%20Sanjay%20Chandra.pdf) |
-| 3 | Warehouse and SQL | [Download PDF](https://github.com/ssanjaychandra123/data-engineering-patterns/blob/main/Fabric%20Patterns/Fabric%20Engineering%20Patterns%20Book%20III%20-%20Warehouse%20and%20SQL%20by%20Sanjay%20Chandra.pdf) |
-| 4 | Power BI in Fabric | [Download PDF](https://github.com/ssanjaychandra123/data-engineering-patterns/blob/main/Fabric%20Patterns/Fabric%20Engineering%20Patterns%20Book%20IV%20-%20Power%20BI%20in%20Fabric%20by%20Sanjay%20Chandra.pdf) |
-| 5 | Architecture Patterns | [Download PDF](https://github.com/ssanjaychandra123/data-engineering-patterns/blob/main/Fabric%20Patterns/Fabric%20Engineering%20Patterns%20Book%20V%20-%20Architecture%20Patterns%20by%20Sanjay%20Chandra.pdf) |
+| Title | Download |
+|---|---|
+| The Fabric Practitioner's Handbook 4.0 | [Download PDF](https://github.com/ssanjaychandra123/data-engineering-patterns/blob/main/Fabric%20Patterns/Fabric%20Practitioners%20Handbook%204.0%20by%20Sanjay%20Chandra.pdf) |
 
 ---
 
