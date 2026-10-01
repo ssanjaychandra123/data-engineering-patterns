@@ -14,7 +14,9 @@ Free handbooks, cheat sheets, and pattern books for Microsoft Fabric, Azure Data
 
 What each Fabric feature is, how it behaves in production, and how to design with it. One handbook that replaces the five Fabric Engineering Patterns books.
 
-**[Download The Fabric Practitioner's Handbook 4.0 (PDF)](https://github.com/ssanjaychandra123/data-engineering-patterns/blob/main/Fabric%20Patterns/Fabric%20Practitioners%20Handbook%204.0%20by%20Sanjay%20Chandra.pdf)**
+| Title | Download |
+|---|---|
+| The Fabric Practitioner's Handbook 4.0 | [Download PDF](https://github.com/ssanjaychandra123/data-engineering-patterns/blob/main/Fabric%20Patterns/Fabric%20Practitioners%20Handbook%204.0%20by%20Sanjay%20Chandra.pdf) |
 ---
 
 ## Azure Databricks Patterns
