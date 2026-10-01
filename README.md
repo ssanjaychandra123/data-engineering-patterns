@@ -1,12 +1,8 @@
 # Data Engineering Patterns
 
-Field notes from real data platform engagements. Microsoft Fabric, Azure Databricks, PySpark, and SQL. Free.
+Free handbooks, cheat sheets, and pattern books for Microsoft Fabric, Azure Databricks, PySpark, and SQL, drawn from real data platform engagements. Each one explains how the platform actually works and which decision to make in production.
 
-Every pattern names the assumption that quietly breaks production, explains what is actually happening under the hood, and gives you the decision to make instead.
-
-Whether you are sitting an interview, stabilizing a live platform, or designing your first lakehouse, these are the patterns that separate a pipeline that runs from one you can trust.
-
-> **One repository for everything data engineering.** This is the single home for all of my data engineering material. Microsoft Fabric, Azure Databricks, PySpark, and SQL today, with more platforms, tools, and patterns added over time. Star the repo and check back as it grows.
+> **One home for all of my data engineering material,** with more platforms and tools added over time. Star the repo and check back as it grows.
 
 ---
 
@@ -16,12 +12,9 @@ Whether you are sitting an interview, stabilizing a live platform, or designing 
   <img src="Microsoft_Fabric_Poster.png" alt="The Fabric Practitioner's Handbook 4.0" width="420">
 </p>
 
-One book, version 4.0, for engineers building on Microsoft Fabric. The Fabric Practitioner's Handbook replaces the five Fabric Engineering Patterns books: 263 pages in three sections. Know the pieces: 19 comparisons of commonly confused concepts. What breaks: 123 patterns across nine parts, from storage and ingestion through security, capacity, and CI/CD. Design it: 30 system design scenarios.
+What each Fabric feature is, how it behaves in production, and how to design with it. One handbook that replaces the five Fabric Engineering Patterns books.
 
-| Title | Download |
-|---|---|
-| The Fabric Practitioner's Handbook 4.0 | [Download PDF](https://github.com/ssanjaychandra123/data-engineering-patterns/blob/main/Fabric%20Patterns/Fabric%20Practitioners%20Handbook%204.0%20by%20Sanjay%20Chandra.pdf) |
-
+**[Download The Fabric Practitioner's Handbook 4.0 (PDF)](https://github.com/ssanjaychandra123/data-engineering-patterns/blob/main/Fabric%20Patterns/Fabric%20Practitioners%20Handbook%204.0%20by%20Sanjay%20Chandra.pdf)**
 ---
 
 ## Azure Databricks Patterns
@@ -50,7 +43,7 @@ One book, version 4.0, for engineers building on Microsoft Fabric. The Fabric Pr
   <img src="PySpark_Handbook_Poster.png" alt="The PySpark Handbook" width="420">
 </p>
 
-Two companion books, version 4.0, for engineers running PySpark on Databricks and Fabric. The PySpark Practitioner's Handbook explains how Spark thinks and runs: 97 concepts across 98 pages, each with a figure that draws the mechanism. The PySpark Cheat Sheet is the code: 221 patterns across 78 pages to keep open while you work.
+How Spark thinks and runs on Databricks and Fabric, with a figure for every concept, plus a cheat sheet of code to keep open while you work.
 
 | Title | Download |
 |---|---|
@@ -65,7 +58,7 @@ Two companion books, version 4.0, for engineers running PySpark on Databricks an
   <img src="SQL_Handbook_Poster.png" alt="The SQL Handbook" width="420">
 </p>
 
-Two companion books, version 4.0, for engineers writing SQL on Fabric and Databricks. The SQL Practitioner's Handbook explains how SQL thinks and runs: 50 concepts across 56 pages, from logical processing order and joins through the Fabric Warehouse engine and Databricks SQL to working across both engines, each with a figure. The SQL Cheat Sheet puts T-SQL and Spark SQL side by side: 142 patterns across 67 pages.
+How SQL thinks and runs on Fabric Warehouse and Databricks SQL, with a figure for every concept, plus a cheat sheet that puts T-SQL and Spark SQL side by side.
 
 | Title | Download |
 |---|---|
@@ -74,11 +67,7 @@ Two companion books, version 4.0, for engineers writing SQL on Fabric and Databr
 
 ---
 
-Found a gap or something that has moved on? Open an issue. These platforms evolve quickly and I keep the material current.
-
----
-
-Compiled with Claude by Anthropic as a writing and research assistant. Every pattern was reviewed, edited, and validated by Sanjay Chandra.
+Found a gap or something that has moved on? Open an issue. These platforms evolve quickly and I keep the material current. Compiled with Claude by Anthropic as a writing and research assistant. Every page was reviewed, edited, and validated by Sanjay Chandra.
 
 ---
 
