@@ -63,10 +63,19 @@ How SQL thinks and runs on Fabric Warehouse and Databricks SQL, with a figure fo
 
 ---
 
-Found a gap or something that has moved on? Open an issue. These platforms evolve quickly and I keep the material current. Compiled with Claude by Anthropic as a writing and research assistant. Every page was reviewed, edited, and validated by Sanjay Chandra.
+## Archive
+
+The earlier Fabric and Azure Databricks pattern books, plus a community interview guide, are kept in the [Archive](https://github.com/ssanjaychandra123/data-engineering-patterns/tree/main/Archive) folder for reference. These old Fabric and Azure Databricks books are no longer updated.
+
+---
+
+Found a gap or something that has moved on? Open an issue. These platforms evolve quickly and I keep the material current. Compiled with Claude by Anthropic as a writing and research assistant. Every page was reviewed, edited and validated by Sanjay Chandra.
 
 ---
 
 Sanjay Chandra builds and advises on enterprise data platforms. If your team is wrestling with one of these problems at scale, let us talk.
 
 [LinkedIn](https://www.linkedin.com/in/ssanjaychandra/) · [ssanjaychandra.com](http://www.ssanjaychandra.com)
+
+WhatsApp Fabric II CoE Group [Link](https://chat.whatsapp.com/JoVK8QtSh8b1fBtQMK3BtW)
+WhatsApp Databricks CoE Group [Link](https://chat.whatsapp.com/IkrluH4vdX39YjOdwJlY2J)
