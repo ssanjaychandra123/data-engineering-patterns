@@ -78,4 +78,5 @@ Sanjay Chandra builds and advises on enterprise data platforms. If your team is 
 [LinkedIn](https://www.linkedin.com/in/ssanjaychandra/) · [ssanjaychandra.com](http://www.ssanjaychandra.com)
 
 WhatsApp Fabric II CoE Group [Link](https://chat.whatsapp.com/JoVK8QtSh8b1fBtQMK3BtW)
+
 WhatsApp Databricks CoE Group [Link](https://chat.whatsapp.com/IkrluH4vdX39YjOdwJlY2J)
